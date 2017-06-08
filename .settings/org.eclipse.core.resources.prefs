@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/resources/jdbc.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/page/AnalysisResult.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/page/IMDEMO.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/page/LocationAnalysis.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/page/location.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/page/welcom.jsp=UTF-8
+encoding//src/main/webapp/css/total.css=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

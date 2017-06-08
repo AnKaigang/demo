@@ -1,0 +1,44 @@
+
+#ResetPassword{background:#007378;width:110px;height:30px;border-radius:5px;color:white;border:0px;}        
+#ResetPassword:hover{background:#007378;color:white;} 
+.add{padding:5px 25px 5px 25px;background:#007378;border-radius:5px;color:white;text-decoration:none;}
+.add:hover{padding:5px 25px 5px 25px;background:#007378;border-radius:5px;color:white;text-decoration:none;}
+        th
+        {
+            font: bold 12px "Trebuchet MS" , Verdana, Arial, Helvetica, sans-serif;
+            color: #fff;
+            border-right: 1px solid #6091fb;
+            border-left: 1px solid #6091fb;
+            border-bottom: 1px solid #6091fb;
+            border-top: 1px solid #6091fb;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            text-align: center;
+            padding: 6px 6px 6px 12px;
+            background:#007378 no-repeat;
+        }
+
+ 		table
+  		{
+  			border-collapse:collapse;
+ 		 }
+ 		
+        
+        td
+        {
+            border-left: 1px solid #C1DAD7;
+            border-right: 1px solid #C1DAD7;
+            border-bottom: 1px solid #C1DAD7;
+            border-collapse:collapse;
+            background: #fff;
+            font-size: 12px;
+            padding: 6px 6px 6px 12px;
+            color: #4f6b72;
+        }	       
+        
+
+
+
+
+       
+      
