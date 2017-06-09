@@ -24,6 +24,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
   	<h1>数据分析结果:</h1>
-    图书馆和教学区人数较多，说明同学们最近学习情况较好。 <br>
+    暂无数据 <br>
   </body>
 </html>

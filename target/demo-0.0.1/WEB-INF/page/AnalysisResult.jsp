@@ -16,7 +16,7 @@
 	var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 
 	var barChartData = {
-		labels : ["宿舍楼","一体","图书馆","一/二教学楼","二体"],
+		labels : ["宿舍楼","一体","图书馆","教学楼","二体"],
 		datasets : [
 /* 			{
 				fillColor : "rgba(220,220,220,0.5)",
@@ -30,7 +30,7 @@
 				strokeColor : "rgba(151,187,205,0.8)",
 				highlightFill : "rgba(151,187,205,0.75)",
 				highlightStroke : "rgba(151,187,205,1)",
-				data :[0,0,0,0,0] //[randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor()]
+				data :[3,0,0,0,0] //[randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor()]
 			}
 		]
 

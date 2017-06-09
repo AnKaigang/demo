@@ -20,31 +20,31 @@
 
 		var pieData = [
 				{
-					value: 235,
+					value: 3,
 					color:"#F7464A",
 					highlight: "#FF5A5E",
 					label: "宿舍楼"
 				},
 				{
-					value: 400,
+					value: 0,
 					color: "#46BFBD",
 					highlight: "#5AD3D1",
 					label: "一体"
 				},
 				{
-					value: 870,
+					value: 0,
 					color: "#FDB45C",
 					highlight: "#FFC870",
 					label: "图书馆"
 				},
 				{
-					value: 1000,
+					value: 0,
 					color: "#949FB1",
 					highlight: "#A8B3C5",
-					label: "一/二教学楼"
+					label: "教学楼"
 				},
 				{
-					value: 540,
+					value: 0,
 					color: "#4D5360",
 					highlight: "#616774",
 					label: "二体"
