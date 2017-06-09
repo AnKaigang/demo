@@ -16,7 +16,7 @@
 	var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 
 	var barChartData = {
-		labels : ["宿舍楼","一体","图书馆","一/二教学楼","二体"],
+		labels : ["宿舍楼","一体","图书馆","教学楼","二体"],
 		datasets : [
 /* 			{
 				fillColor : "rgba(220,220,220,0.5)",
