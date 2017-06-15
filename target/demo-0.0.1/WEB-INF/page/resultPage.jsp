@@ -24,6 +24,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
   	<h1>数据分析结果:</h1>
-    暂无数据 <br>
+    当前宿舍人数较多，请注意合理安排课程 <br>
   </body>
 </html>
